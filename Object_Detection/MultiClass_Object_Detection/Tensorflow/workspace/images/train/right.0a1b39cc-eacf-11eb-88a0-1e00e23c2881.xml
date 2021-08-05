@@ -1,0 +1,26 @@
+<annotation>
+	<folder>right</folder>
+	<filename>right.0a1b39cc-eacf-11eb-88a0-1e00e23c2881.jpg</filename>
+	<path>/Users/hemant./Desktop/Repository of Projects/Computer_Vision/Object_Detection/MultiClass_Object_Detection/Tensorflow/workspace/images/collectedimages/right/right.0a1b39cc-eacf-11eb-88a0-1e00e23c2881.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>673</xmin>
+			<ymin>341</ymin>
+			<xmax>921</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>
